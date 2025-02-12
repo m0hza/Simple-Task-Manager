@@ -10,7 +10,7 @@ This project demonstrates how to use the SQLite3 library in Python to create a s
 python-sqlite3-project
 ├── venv                # Virtual environment directory
 ├── src
-│   ├── htuTraining.py  # Main logic for creating the SQLite database and tables
+│   ├── main.py  # Main logic for creating the SQLite database and tables
 ├── requirements.txt    # Project dependencies
 └── README.md           # Project documentation
 ```
