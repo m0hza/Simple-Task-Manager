@@ -46,7 +46,7 @@ python-sqlite3-project
 To create the SQLite database and tables, run the following command:
 
 ```
-python src/htuTraining.py
+python src/main.py
 ```
 
 This will create a database file named `todolist.db` in the project directory with the specified tables.
